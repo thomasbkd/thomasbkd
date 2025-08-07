@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A French developer based at Sophia Antipolis</h3>
 
-<p align="left"> <a href="https://twitter.com/thomasbkd" target="blank"><img src="https://img.shields.io/twitter/follow/thomasbkd?logo=twitter&style=for-the-badge" alt="thomasbkd" /></a> </p>
+- 🔭 I’m currently working on [my musical portfolio](https://music.thomasburkhard.com)
 
-- 🔭 I’m currently working on [my musical portfolio](thomasburkhard.com)
+- 🌱 I’m currently learning **TypeScript and Angular**
 
-- 🌱 I’m currently learning **Wordpress, OHH**
-
-- 🎶 What I am doing after work is **play trumpet, piano and compose**
+- 🎶 What I am doing after work is **play trumpet, conduct and compose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thomasbkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thomasbkd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thomasburkhard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomasburkhard" height="30" width="40" /></a>
-<a href="https://fb.com/thomasbkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thomasbkd" height="30" width="40" /></a>
-<a href="https://instagram.com/thomasbkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomasbkd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
